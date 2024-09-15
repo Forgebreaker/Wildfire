@@ -1,0 +1,3366 @@
+fileFormatVersion: 2
+guid: c05f352245b9107409976904852380ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2676084322038445879
+    second: SunnyLand tileset_0
+  - first:
+      213: 1905945218175475280
+    second: SunnyLand tileset_1
+  - first:
+      213: 6689288631614410853
+    second: SunnyLand tileset_2
+  - first:
+      213: 3927104938960614804
+    second: SunnyLand tileset_3
+  - first:
+      213: 6021930051448845680
+    second: SunnyLand tileset_4
+  - first:
+      213: -1843454757589512748
+    second: SunnyLand tileset_5
+  - first:
+      213: -252409076668986886
+    second: SunnyLand tileset_6
+  - first:
+      213: 5012173615786708085
+    second: SunnyLand tileset_7
+  - first:
+      213: -4895137549161439915
+    second: SunnyLand tileset_8
+  - first:
+      213: -1597179518360746886
+    second: SunnyLand tileset_9
+  - first:
+      213: 7014235854201308698
+    second: SunnyLand tileset_10
+  - first:
+      213: -2582465380590924906
+    second: SunnyLand tileset_11
+  - first:
+      213: -2912506252974351792
+    second: SunnyLand tileset_12
+  - first:
+      213: 5783828636731631866
+    second: SunnyLand tileset_13
+  - first:
+      213: -2557489506817284708
+    second: SunnyLand tileset_14
+  - first:
+      213: -5444895892493414203
+    second: SunnyLand tileset_15
+  - first:
+      213: -1656872782145198835
+    second: SunnyLand tileset_16
+  - first:
+      213: 7727973534773613340
+    second: SunnyLand tileset_17
+  - first:
+      213: -288784006530764272
+    second: SunnyLand tileset_18
+  - first:
+      213: -5017192395818443819
+    second: SunnyLand tileset_19
+  - first:
+      213: 676554201992633293
+    second: SunnyLand tileset_20
+  - first:
+      213: 3864438544227018031
+    second: SunnyLand tileset_21
+  - first:
+      213: 87307184616765885
+    second: SunnyLand tileset_22
+  - first:
+      213: -5170699106659334384
+    second: SunnyLand tileset_23
+  - first:
+      213: 1859138670671282678
+    second: SunnyLand tileset_24
+  - first:
+      213: -4910557567785719994
+    second: SunnyLand tileset_25
+  - first:
+      213: -5513148498704332796
+    second: SunnyLand tileset_26
+  - first:
+      213: -8635800169121687153
+    second: SunnyLand tileset_27
+  - first:
+      213: -6325688283257107478
+    second: SunnyLand tileset_28
+  - first:
+      213: 7871795807831063691
+    second: SunnyLand tileset_29
+  - first:
+      213: -3412687603997316116
+    second: SunnyLand tileset_30
+  - first:
+      213: -5970695271304477775
+    second: SunnyLand tileset_31
+  - first:
+      213: -8925611873704684665
+    second: SunnyLand tileset_32
+  - first:
+      213: -6070300159400263089
+    second: SunnyLand tileset_33
+  - first:
+      213: 5777917659407419154
+    second: SunnyLand tileset_34
+  - first:
+      213: -3528462287352824793
+    second: SunnyLand tileset_35
+  - first:
+      213: 8463078364731928752
+    second: SunnyLand tileset_36
+  - first:
+      213: -7218260087780984712
+    second: SunnyLand tileset_37
+  - first:
+      213: -240559415490094931
+    second: SunnyLand tileset_38
+  - first:
+      213: -986076891422900157
+    second: SunnyLand tileset_39
+  - first:
+      213: 6186238180050954358
+    second: SunnyLand tileset_40
+  - first:
+      213: -2010346025863393377
+    second: SunnyLand tileset_41
+  - first:
+      213: -8473353073251093527
+    second: SunnyLand tileset_42
+  - first:
+      213: 8120368212173382467
+    second: SunnyLand tileset_43
+  - first:
+      213: -4165368675550054701
+    second: SunnyLand tileset_44
+  - first:
+      213: -7050094693232779267
+    second: SunnyLand tileset_45
+  - first:
+      213: 8733943682591069899
+    second: SunnyLand tileset_46
+  - first:
+      213: 1101342019822725872
+    second: SunnyLand tileset_47
+  - first:
+      213: 8790387881135249243
+    second: SunnyLand tileset_48
+  - first:
+      213: 7802949861361049485
+    second: SunnyLand tileset_49
+  - first:
+      213: 5534181600160643786
+    second: SunnyLand tileset_50
+  - first:
+      213: -1302324837051767018
+    second: SunnyLand tileset_51
+  - first:
+      213: -1296812917915407500
+    second: SunnyLand tileset_52
+  - first:
+      213: 6078022604665196645
+    second: SunnyLand tileset_53
+  - first:
+      213: -2416981995949900295
+    second: SunnyLand tileset_54
+  - first:
+      213: -5656720322359967665
+    second: SunnyLand tileset_55
+  - first:
+      213: -4055639007026255362
+    second: SunnyLand tileset_56
+  - first:
+      213: 6510040231638810819
+    second: SunnyLand tileset_57
+  - first:
+      213: 5391688708235676221
+    second: SunnyLand tileset_58
+  - first:
+      213: 4093227804283137896
+    second: SunnyLand tileset_59
+  - first:
+      213: 1624074657229928056
+    second: SunnyLand tileset_60
+  - first:
+      213: -2338242027942835586
+    second: SunnyLand tileset_61
+  - first:
+      213: 6712975847494033310
+    second: SunnyLand tileset_62
+  - first:
+      213: -4914250327089231178
+    second: SunnyLand tileset_63
+  - first:
+      213: -7006651788444922811
+    second: SunnyLand tileset_64
+  - first:
+      213: 6421789682619091794
+    second: SunnyLand tileset_65
+  - first:
+      213: 1051551509247073203
+    second: SunnyLand tileset_66
+  - first:
+      213: 5090138164314375448
+    second: SunnyLand tileset_67
+  - first:
+      213: 7562287196134956918
+    second: SunnyLand tileset_68
+  - first:
+      213: -2474538209607762687
+    second: SunnyLand tileset_69
+  - first:
+      213: 3670428981466578889
+    second: SunnyLand tileset_70
+  - first:
+      213: 4208670053390064290
+    second: SunnyLand tileset_71
+  - first:
+      213: -213565436431247555
+    second: SunnyLand tileset_72
+  - first:
+      213: -8775944828383647767
+    second: SunnyLand tileset_73
+  - first:
+      213: -5100657360594988266
+    second: SunnyLand tileset_74
+  - first:
+      213: 4701716096107158146
+    second: SunnyLand tileset_75
+  - first:
+      213: 178192936502531119
+    second: SunnyLand tileset_76
+  - first:
+      213: -3065063273203620874
+    second: SunnyLand tileset_77
+  - first:
+      213: 2303819104882842379
+    second: SunnyLand tileset_78
+  - first:
+      213: -632612208140734999
+    second: SunnyLand tileset_79
+  - first:
+      213: -3491382064337313327
+    second: SunnyLand tileset_80
+  - first:
+      213: -3208613847255472849
+    second: SunnyLand tileset_81
+  - first:
+      213: -6290582431354353648
+    second: SunnyLand tileset_82
+  - first:
+      213: -3021600795241342214
+    second: SunnyLand tileset_83
+  - first:
+      213: 2733149081542560939
+    second: SunnyLand tileset_84
+  - first:
+      213: 8659682524584775602
+    second: SunnyLand tileset_85
+  - first:
+      213: -5430756328003243854
+    second: SunnyLand tileset_86
+  - first:
+      213: 4257368667502763488
+    second: SunnyLand tileset_87
+  - first:
+      213: -7892803850983880515
+    second: SunnyLand tileset_88
+  - first:
+      213: -8153765488085327442
+    second: SunnyLand tileset_89
+  - first:
+      213: -1623506643021376177
+    second: SunnyLand tileset_90
+  - first:
+      213: 7677080604190555321
+    second: SunnyLand tileset_91
+  - first:
+      213: -3155020569478682028
+    second: SunnyLand tileset_92
+  - first:
+      213: 198936675018076258
+    second: SunnyLand tileset_93
+  - first:
+      213: 8578747951347044687
+    second: SunnyLand tileset_94
+  - first:
+      213: -6985962449481763895
+    second: SunnyLand tileset_95
+  - first:
+      213: -4757609832049227429
+    second: SunnyLand tileset_96
+  - first:
+      213: 595983573909027932
+    second: SunnyLand tileset_97
+  - first:
+      213: -9217569229037402073
+    second: SunnyLand tileset_98
+  - first:
+      213: -5424798798247061772
+    second: SunnyLand tileset_99
+  - first:
+      213: -8785086238025556046
+    second: SunnyLand tileset_100
+  - first:
+      213: -4113452599925940200
+    second: SunnyLand tileset_101
+  - first:
+      213: -7624360116195482570
+    second: SunnyLand tileset_102
+  - first:
+      213: -7665603830961254308
+    second: SunnyLand tileset_103
+  - first:
+      213: -2046273813892447168
+    second: SunnyLand tileset_104
+  - first:
+      213: -470668645530391990
+    second: SunnyLand tileset_105
+  - first:
+      213: -6906386113129511404
+    second: SunnyLand tileset_106
+  - first:
+      213: 1593867181211016575
+    second: SunnyLand tileset_107
+  - first:
+      213: 8164676312362618170
+    second: SunnyLand tileset_108
+  - first:
+      213: 4926076260706563816
+    second: SunnyLand tileset_109
+  - first:
+      213: -7591092544346069644
+    second: SunnyLand tileset_110
+  - first:
+      213: 6965589524343242156
+    second: SunnyLand tileset_111
+  - first:
+      213: 5648876976007478714
+    second: SunnyLand tileset_112
+  - first:
+      213: -982666490276604291
+    second: SunnyLand tileset_113
+  - first:
+      213: 4431766040304241665
+    second: SunnyLand tileset_114
+  - first:
+      213: 1986523274489336448
+    second: SunnyLand tileset_115
+  - first:
+      213: 1129725831474438114
+    second: SunnyLand tileset_116
+  - first:
+      213: -1247646201227555086
+    second: SunnyLand tileset_117
+  - first:
+      213: -7705695899726719749
+    second: SunnyLand tileset_118
+  - first:
+      213: 1907439402417570864
+    second: SunnyLand tileset_119
+  - first:
+      213: -888301437895788464
+    second: SunnyLand tileset_120
+  - first:
+      213: 8125836406680331349
+    second: SunnyLand tileset_121
+  - first:
+      213: 7905356010905145807
+    second: SunnyLand tileset_122
+  - first:
+      213: -6675026243330183205
+    second: SunnyLand tileset_123
+  - first:
+      213: 4887919662653770356
+    second: SunnyLand tileset_124
+  - first:
+      213: 1506128005779227911
+    second: SunnyLand tileset_125
+  - first:
+      213: 3918777439457793485
+    second: SunnyLand tileset_126
+  - first:
+      213: 1998555866766372855
+    second: SunnyLand tileset_127
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SunnyLand tileset_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f71c238c532520800000000000000
+      internalID: 2676084322038445879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e14bae317437a10800000000000000
+      internalID: 1905945218175475280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5609f6fa19025dc50800000000000000
+      internalID: 6689288631614410853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495fd62a221ef7630800000000000000
+      internalID: 3927104938960614804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bbdae971329350800000000000000
+      internalID: 6021930051448845680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd8f5e3aabba66e0800000000000000
+      internalID: -1843454757589512748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98f0738434f7cf0800000000000000
+      internalID: -252409076668986886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4d811951de8540800000000000000
+      internalID: 5012173615786708085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_8
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d5e87a55af01cb0800000000000000
+      internalID: -4895137549161439915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740495b0bda5d9e0800000000000000
+      internalID: -1597179518360746886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164a7ca852975160800000000000000
+      internalID: 7014235854201308698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b42293b6d392cd0800000000000000
+      internalID: -2582465380590924906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_12
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a1c597ef2b497d0800000000000000
+      internalID: -2912506252974351792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ee164089444050800000000000000
+      internalID: 5783828636731631866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ed5df7d8f18cd0800000000000000
+      internalID: -2557489506817284708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c052f8b808df64b0800000000000000
+      internalID: -5444895892493414203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05e83eabfa9109e0800000000000000
+      internalID: -1656872782145198835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131dcd3cf64f3b60800000000000000
+      internalID: 7727973534773613340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0127be1e9780efbf0800000000000000
+      internalID: -288784006530764272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5375291a5f5ab0800000000000000
+      internalID: -5017192395818443819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_20
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb9111567a936900800000000000000
+      internalID: 676554201992633293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25aafc916e31a530800000000000000
+      internalID: 3864438544227018031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 459
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9fb6dfb6d263100800000000000000
+      internalID: 87307184616765885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017042bde8cfd38b0800000000000000
+      internalID: -5170699106659334384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cd8555ccfcc910800000000000000
+      internalID: 1859138670671282678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a60bc8e13adbb0800000000000000
+      internalID: -4910557567785719994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40800cc76ac5d73b0800000000000000
+      internalID: -5513148498704332796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895e382089772880800000000000000
+      internalID: -8635800169121687153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb0c947504a638a0800000000000000
+      internalID: -6325688283257107478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 441
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cfd26a49c3e3d60800000000000000
+      internalID: 7871795807831063691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6c5294b2b3a0d0800000000000000
+      internalID: -3412687603997316116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3cacbe844d32da0800000000000000
+      internalID: -5970695271304477775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783d2d07a4bd12480800000000000000
+      internalID: -8925611873704684665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 423
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4243f6ba26f1cba0800000000000000
+      internalID: -6070300159400263089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178f6e9f794f2050800000000000000
+      internalID: 5777917659407419154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cf8f68e32680fc0800000000000000
+      internalID: -3528462287352824793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f324fee4e27570800000000000000
+      internalID: 8463078364731928752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783f63b1b693db90800000000000000
+      internalID: -7218260087780984712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da856547c7c59acf0800000000000000
+      internalID: -240559415490094931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340448daa40c052f0800000000000000
+      internalID: -986076891422900157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_40
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67865e149dee9d550800000000000000
+      internalID: 6186238180050954358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_41
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4bc4d0f0d914e0800000000000000
+      internalID: -2010346025863393377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3776c064a986a80800000000000000
+      internalID: -8473353073251093527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 405
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343e7fb8dd751b070800000000000000
+      internalID: 8120368212173382467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6bc473243a136c0800000000000000
+      internalID: -4165368675550054701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5ef0ca38092e90800000000000000
+      internalID: -7050094693232779267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc69b114183353970800000000000000
+      internalID: 8733943682591069899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faaebb5bb0c84f00800000000000000
+      internalID: 1101342019822725872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5717f4543bbdf970800000000000000
+      internalID: 8790387881135249243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fdb9e9e85a94c60800000000000000
+      internalID: 7802949861361049485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf31018dc5dcc40800000000000000
+      internalID: 5534181600160643786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_51
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176c51f5763dede0800000000000000
+      internalID: -1302324837051767018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_52
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ba38f958bc00ee0800000000000000
+      internalID: -1296812917915407500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5601ddf2b59795450800000000000000
+      internalID: 6078022604665196645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_54
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd34ee2ea7257ed0800000000000000
+      internalID: -2416981995949900295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_55
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40400066da4f71b0800000000000000
+      internalID: -5656720322359967665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef96bf09fc977b7c0800000000000000
+      internalID: -4055639007026255362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c04558591f485a50800000000000000
+      internalID: 6510040231638810819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a4fd1505023da40800000000000000
+      internalID: 5391688708235676221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_59
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6c0b40011ec830800000000000000
+      internalID: 4093227804283137896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87677e8cb4fd98610800000000000000
+      internalID: 1624074657229928056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_61
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a049d9345ec8fd0800000000000000
+      internalID: -2338242027942835586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 315
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f98a767f7492d50800000000000000
+      internalID: 6712975847494033310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_63
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bacf744d531dcbb0800000000000000
+      internalID: -4914250327089231178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_64
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c82ec325f53ce90800000000000000
+      internalID: -7006651788444922811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_65
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b87c631b7ce1950800000000000000
+      internalID: 6421789682619091794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_66
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb92bbb68cd79e00800000000000000
+      internalID: 1051551509247073203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_67
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 297
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150e9511bdc3a640800000000000000
+      internalID: 5090138164314375448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fdb1f5324a2f860800000000000000
+      internalID: 7562287196134956918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db239eb9ca8add0800000000000000
+      internalID: -2474538209607762687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3d9d36bbffe230800000000000000
+      internalID: 3670428981466578889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_71
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 261
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa93257d13386a30800000000000000
+      internalID: 4208670053390064290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37d639fd53490df0800000000000000
+      internalID: -213565436431247555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_73
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e724cfeca4953680800000000000000
+      internalID: -8775944828383647767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_74
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61311cca723d639b0800000000000000
+      internalID: -5100657360594988266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_75
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a143fe0e9df3140800000000000000
+      internalID: 4701716096107158146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_76
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2497b91881197200800000000000000
+      internalID: 178192936502531119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_77
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 243
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f32a924135b675d0800000000000000
+      internalID: -3065063273203620874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdc4d054fc8ff10800000000000000
+      internalID: 2303819104882842379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_79
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed22356c828837f0800000000000000
+      internalID: -632612208140734999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_80
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d12108b28e1c8fc0800000000000000
+      internalID: -3491382064337313327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2520f4b4b6b873d0800000000000000
+      internalID: -3208613847255472849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0188fcc8b9c53b8a0800000000000000
+      internalID: -6290582431354353648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1a9af51e1116d0800000000000000
+      internalID: -3021600795241342214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_84
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac878bdb981ee520800000000000000
+      internalID: 2733149081542560939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8889006f5d2870800000000000000
+      internalID: 8659682524584775602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_86
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b079af94e312a4b0800000000000000
+      internalID: -5430756328003243854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_87
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed51602f36351b30800000000000000
+      internalID: 4257368667502763488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_88
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8454427b0277290800000000000000
+      internalID: -7892803850983880515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_89
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1a5d43d7108de80800000000000000
+      internalID: -8153765488085327442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_90
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4559345f452879e0800000000000000
+      internalID: -1623506643021376177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_91
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb1d472287a8a60800000000000000
+      internalID: 7677080604190555321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a2c21128d1734d0800000000000000
+      internalID: -3155020569478682028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_93
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260ff371ad3c2c200800000000000000
+      internalID: 198936675018076258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4196a14fc5dd0770800000000000000
+      internalID: 8578747951347044687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fb685a20ec0f90800000000000000
+      internalID: -6985962449481763895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_96
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59cccc801399fdb0800000000000000
+      internalID: -4757609832049227429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_97
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cb0de17eb554800800000000000000
+      internalID: 595983573909027932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_98
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72887aa7f9d941080800000000000000
+      internalID: -9217569229037402073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_99
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6948c1c3e37b4b0800000000000000
+      internalID: -5424798798247061772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_100
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5055ac9a151680800000000000000
+      internalID: -8785086238025556046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e10587a41ae6c0800000000000000
+      internalID: -4113452599925940200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_102
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6342382bed4d03690800000000000000
+      internalID: -7624360116195482570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_103
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c505eaa0eed4e9590800000000000000
+      internalID: -7665603830961254308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_104
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c1c1decc2a93e0800000000000000
+      internalID: -2046273813892447168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_105
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a2f305c59d779f0800000000000000
+      internalID: -470668645530391990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_106
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168935fb669720a0800000000000000
+      internalID: -6906386113129511404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_107
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5c33b1cd8e1610800000000000000
+      internalID: 1593867181211016575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8b6809d1ce4170800000000000000
+      internalID: 8164676312362618170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_109
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e636e77240fc5440800000000000000
+      internalID: 4926076260706563816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e22ddc8507a690800000000000000
+      internalID: -7591092544346069644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_111
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad39a164cebaa060800000000000000
+      internalID: 6965589524343242156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_112
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdfece3ea7d46e40800000000000000
+      internalID: 5648876976007478714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_113
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761262980edc52f0800000000000000
+      internalID: -982666490276604291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_114
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c49ffabbbc08d30800000000000000
+      internalID: 4431766040304241665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_115
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0829bf1a46c819b10800000000000000
+      internalID: 1986523274489336448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_116
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efdd9e78a79daf00800000000000000
+      internalID: 1129725831474438114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_117
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe477ae3687faee0800000000000000
+      internalID: -1247646201227555086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_118
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4da9dd76edf0590800000000000000
+      internalID: -7705695899726719749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_119
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ceabc706987a10800000000000000
+      internalID: 1907439402417570864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b0c47c8e1ca3f0800000000000000
+      internalID: -888301437895788464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_121
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542e1bc825c4c070800000000000000
+      internalID: 8125836406680331349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11005586775bd60800000000000000
+      internalID: 7905356010905145807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_123
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe4eb5ffa8d53a0800000000000000
+      internalID: -6675026243330183205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a002f290165d340800000000000000
+      internalID: 4887919662653770356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050db20177d6e410800000000000000
+      internalID: 1506128005779227911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_126
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc552b0915b426630800000000000000
+      internalID: 3918777439457793485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SunnyLand tileset_127
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 117
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe166d8fb4cbb10800000000000000
+      internalID: 1998555866766372855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SunnyLand tileset_0: 2676084322038445879
+      SunnyLand tileset_1: 1905945218175475280
+      SunnyLand tileset_10: 7014235854201308698
+      SunnyLand tileset_100: -8785086238025556046
+      SunnyLand tileset_101: -4113452599925940200
+      SunnyLand tileset_102: -7624360116195482570
+      SunnyLand tileset_103: -7665603830961254308
+      SunnyLand tileset_104: -2046273813892447168
+      SunnyLand tileset_105: -470668645530391990
+      SunnyLand tileset_106: -6906386113129511404
+      SunnyLand tileset_107: 1593867181211016575
+      SunnyLand tileset_108: 8164676312362618170
+      SunnyLand tileset_109: 4926076260706563816
+      SunnyLand tileset_11: -2582465380590924906
+      SunnyLand tileset_110: -7591092544346069644
+      SunnyLand tileset_111: 6965589524343242156
+      SunnyLand tileset_112: 5648876976007478714
+      SunnyLand tileset_113: -982666490276604291
+      SunnyLand tileset_114: 4431766040304241665
+      SunnyLand tileset_115: 1986523274489336448
+      SunnyLand tileset_116: 1129725831474438114
+      SunnyLand tileset_117: -1247646201227555086
+      SunnyLand tileset_118: -7705695899726719749
+      SunnyLand tileset_119: 1907439402417570864
+      SunnyLand tileset_12: -2912506252974351792
+      SunnyLand tileset_120: -888301437895788464
+      SunnyLand tileset_121: 8125836406680331349
+      SunnyLand tileset_122: 7905356010905145807
+      SunnyLand tileset_123: -6675026243330183205
+      SunnyLand tileset_124: 4887919662653770356
+      SunnyLand tileset_125: 1506128005779227911
+      SunnyLand tileset_126: 3918777439457793485
+      SunnyLand tileset_127: 1998555866766372855
+      SunnyLand tileset_13: 5783828636731631866
+      SunnyLand tileset_14: -2557489506817284708
+      SunnyLand tileset_15: -5444895892493414203
+      SunnyLand tileset_16: -1656872782145198835
+      SunnyLand tileset_17: 7727973534773613340
+      SunnyLand tileset_18: -288784006530764272
+      SunnyLand tileset_19: -5017192395818443819
+      SunnyLand tileset_2: 6689288631614410853
+      SunnyLand tileset_20: 676554201992633293
+      SunnyLand tileset_21: 3864438544227018031
+      SunnyLand tileset_22: 87307184616765885
+      SunnyLand tileset_23: -5170699106659334384
+      SunnyLand tileset_24: 1859138670671282678
+      SunnyLand tileset_25: -4910557567785719994
+      SunnyLand tileset_26: -5513148498704332796
+      SunnyLand tileset_27: -8635800169121687153
+      SunnyLand tileset_28: -6325688283257107478
+      SunnyLand tileset_29: 7871795807831063691
+      SunnyLand tileset_3: 3927104938960614804
+      SunnyLand tileset_30: -3412687603997316116
+      SunnyLand tileset_31: -5970695271304477775
+      SunnyLand tileset_32: -8925611873704684665
+      SunnyLand tileset_33: -6070300159400263089
+      SunnyLand tileset_34: 5777917659407419154
+      SunnyLand tileset_35: -3528462287352824793
+      SunnyLand tileset_36: 8463078364731928752
+      SunnyLand tileset_37: -7218260087780984712
+      SunnyLand tileset_38: -240559415490094931
+      SunnyLand tileset_39: -986076891422900157
+      SunnyLand tileset_4: 6021930051448845680
+      SunnyLand tileset_40: 6186238180050954358
+      SunnyLand tileset_41: -2010346025863393377
+      SunnyLand tileset_42: -8473353073251093527
+      SunnyLand tileset_43: 8120368212173382467
+      SunnyLand tileset_44: -4165368675550054701
+      SunnyLand tileset_45: -7050094693232779267
+      SunnyLand tileset_46: 8733943682591069899
+      SunnyLand tileset_47: 1101342019822725872
+      SunnyLand tileset_48: 8790387881135249243
+      SunnyLand tileset_49: 7802949861361049485
+      SunnyLand tileset_5: -1843454757589512748
+      SunnyLand tileset_50: 5534181600160643786
+      SunnyLand tileset_51: -1302324837051767018
+      SunnyLand tileset_52: -1296812917915407500
+      SunnyLand tileset_53: 6078022604665196645
+      SunnyLand tileset_54: -2416981995949900295
+      SunnyLand tileset_55: -5656720322359967665
+      SunnyLand tileset_56: -4055639007026255362
+      SunnyLand tileset_57: 6510040231638810819
+      SunnyLand tileset_58: 5391688708235676221
+      SunnyLand tileset_59: 4093227804283137896
+      SunnyLand tileset_6: -252409076668986886
+      SunnyLand tileset_60: 1624074657229928056
+      SunnyLand tileset_61: -2338242027942835586
+      SunnyLand tileset_62: 6712975847494033310
+      SunnyLand tileset_63: -4914250327089231178
+      SunnyLand tileset_64: -7006651788444922811
+      SunnyLand tileset_65: 6421789682619091794
+      SunnyLand tileset_66: 1051551509247073203
+      SunnyLand tileset_67: 5090138164314375448
+      SunnyLand tileset_68: 7562287196134956918
+      SunnyLand tileset_69: -2474538209607762687
+      SunnyLand tileset_7: 5012173615786708085
+      SunnyLand tileset_70: 3670428981466578889
+      SunnyLand tileset_71: 4208670053390064290
+      SunnyLand tileset_72: -213565436431247555
+      SunnyLand tileset_73: -8775944828383647767
+      SunnyLand tileset_74: -5100657360594988266
+      SunnyLand tileset_75: 4701716096107158146
+      SunnyLand tileset_76: 178192936502531119
+      SunnyLand tileset_77: -3065063273203620874
+      SunnyLand tileset_78: 2303819104882842379
+      SunnyLand tileset_79: -632612208140734999
+      SunnyLand tileset_8: -4895137549161439915
+      SunnyLand tileset_80: -3491382064337313327
+      SunnyLand tileset_81: -3208613847255472849
+      SunnyLand tileset_82: -6290582431354353648
+      SunnyLand tileset_83: -3021600795241342214
+      SunnyLand tileset_84: 2733149081542560939
+      SunnyLand tileset_85: 8659682524584775602
+      SunnyLand tileset_86: -5430756328003243854
+      SunnyLand tileset_87: 4257368667502763488
+      SunnyLand tileset_88: -7892803850983880515
+      SunnyLand tileset_89: -8153765488085327442
+      SunnyLand tileset_9: -1597179518360746886
+      SunnyLand tileset_90: -1623506643021376177
+      SunnyLand tileset_91: 7677080604190555321
+      SunnyLand tileset_92: -3155020569478682028
+      SunnyLand tileset_93: 198936675018076258
+      SunnyLand tileset_94: 8578747951347044687
+      SunnyLand tileset_95: -6985962449481763895
+      SunnyLand tileset_96: -4757609832049227429
+      SunnyLand tileset_97: 595983573909027932
+      SunnyLand tileset_98: -9217569229037402073
+      SunnyLand tileset_99: -5424798798247061772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
