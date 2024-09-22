@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private int MaxHealth = 10;
@@ -10,6 +11,7 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private GameObject GodModeSymbol;
     [SerializeField] private float GodModeTime = 5;
     [SerializeField] private float GodModeCurrentTime = 0;
+    private SceneManager sceneManager;
     private Slider HealthSlider;
 
     [Header("TakeDamgeEffect")]
@@ -87,12 +89,13 @@ public class PlayerHealth : MonoBehaviour
             }
             Appearance.enabled = false;
             PlayerCollider.enabled = false;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             Destroy(this.gameObject, 2f);
         }
     }
     public void HealMode()
     {
-        CurrentHealth++;
+        CurrentHealth += 3;
     }
     public void ActiveGodMode() 
     {

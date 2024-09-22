@@ -26,7 +26,9 @@ public class PlayerController : MonoBehaviour
         [SerializeField] private GameObject AttackPoint;
         [SerializeField] private float AttackCoolDown;
         [SerializeField] private GameObject Bullet;
+        [SerializeField] private AudioClip AttackSound;
         private float CurrentAttackCoolDown = 0;
+        private AudioSource Audio;
 
     [Header("Dash System")]
         [SerializeField] private float DashTime;
@@ -40,6 +42,7 @@ public class PlayerController : MonoBehaviour
     {
         AnimationController = this.gameObject.GetComponent<Animator>();
         PlayerAppearance = this.gameObject.GetComponent<SpriteRenderer>();
+        Audio = this.gameObject.GetComponent<AudioSource>();
     }
 
     void Update()
@@ -74,10 +77,6 @@ public class PlayerController : MonoBehaviour
         if (CurrentAttackCoolDown < 0) {
             CurrentAttackCoolDown = 0;
         } 
-        else if (CurrentAttackCoolDown > 0) 
-        {
-            PlayerRB.velocity = new Vector2(0, PlayerRB.velocity.y);
-        }
 
         if (CurrentDashTime > 0 && Mathf.Abs(PlayerVelocity_X) > 0)
         {
@@ -107,12 +106,12 @@ public class PlayerController : MonoBehaviour
         AnimationController.SetFloat("Horizontal Input", Mathf.Abs(PlayerVelocity_X));
         AnimationController.SetFloat("Y Velocity", PlayerRB.velocity.y);
 
-        if (PlayerVelocity_X > 0.1 && CurrentAttackCoolDown == 0) 
+        if (PlayerVelocity_X > 0.1) 
         {
             this.gameObject.transform.rotation = Quaternion.Euler(0, 0, 0);
         }
 
-        if (PlayerVelocity_X < -0.1 && CurrentAttackCoolDown == 0)
+        if (PlayerVelocity_X < -0.1)
         {
             this.gameObject.transform.rotation = Quaternion.Euler(0, -180, 0);
         }
@@ -149,6 +148,7 @@ public class PlayerController : MonoBehaviour
         if (context.started && CurrentAttackCoolDown <= 0) 
         {
             AnimationController.SetTrigger("Attack");
+            Audio.PlayOneShot(AttackSound);
             Instantiate(Bullet, AttackPoint.transform.position, AttackPoint.transform.rotation);
             CurrentAttackCoolDown = AttackCoolDown;
         }

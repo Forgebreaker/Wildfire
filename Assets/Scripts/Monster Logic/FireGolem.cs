@@ -22,7 +22,7 @@ public class FireGolem : MonoBehaviour
         if (ShootCountDown < 0)
         {
             Attack = true;
-            ShootCountDown = 10;
+            ShootCountDown = 7.5f;
         } else 
         {
             Attack = false; 

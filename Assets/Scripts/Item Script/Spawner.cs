@@ -22,7 +22,7 @@ public class Spawner : MonoBehaviour
         if (CurrentSpawnTime <= 0) 
         {
             CurrentSpawnTime = SpawnTime;
-            Instantiate(Itemlist[Random.Range(0, 2)], transform.position, transform.rotation);
+            Instantiate(Itemlist[Random.Range(0, 3)], transform.position, transform.rotation);
         }
     }
 }
