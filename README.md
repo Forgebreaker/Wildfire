@@ -1,5 +1,10 @@
 # Wildfire: Pixel Battleground
 
+- This is a small game created by a small team
+  + Nguyen Duong Yen Nhi - UX/UI desginer
+  + Vu Thanh Luan - UI developer
+  + Tran Hung Thinh - Everything else
+
 [Download Link] https://drive.google.com/file/d/1mmJyNOcZYoZnIHftis01PLBx5i2dkWU8/view?usp=sharing
 
 [How To Run] Please download the ZIP file from the provided Google Drive link, extract its contents, and launch the "Wildfire.exe" to initiate the game. Have a good time!
