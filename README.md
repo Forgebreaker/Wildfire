@@ -1,6 +1,6 @@
 # Wildfire: Pixel Battleground
 
-- This is just a simple pixel fighting game, learn a little bit from Brawlhalla, created by:
+- This is just a simple pixel fighting game, learned a little bit from Brawlhalla, created by:
   
   + Nguyen Duong Yen Nhi - UX/UI desginer
   + Vu Thanh Luan - UI developer
