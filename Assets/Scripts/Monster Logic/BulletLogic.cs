@@ -52,7 +52,6 @@ public class BulletLogic : MonoBehaviour
     }
     void Update()
     {
-
         if (LockedTarget != null)
         {
             BulletRB.velocity = direction * MoveSpeed;

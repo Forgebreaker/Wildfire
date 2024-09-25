@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,13 +6,14 @@ using UnityEngine.SceneManagement;
 public class PlayerHealth : MonoBehaviour
 {
     [SerializeField] private int MaxHealth = 10;
-    [SerializeField] private int CurrentHealth;
     [SerializeField] private Image HealthUI;
     [SerializeField] private GameObject GodModeSymbol;
     [SerializeField] private float GodModeTime = 5;
     [SerializeField] private float GodModeCurrentTime = 0;
+    [SerializeField] private ButtonUIManager buttonUIManager;
     private SceneManager sceneManager;
     private Slider HealthSlider;
+    public int CurrentHealth;
 
     [Header("TakeDamgeEffect")]
         
@@ -89,7 +90,8 @@ public class PlayerHealth : MonoBehaviour
             }
             Appearance.enabled = false;
             PlayerCollider.enabled = false;
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            //StartCoroutine(ShowWinnerDelay(2f));
+            Invoke("ShowWinnerDelay", 2f);
             Destroy(this.gameObject, 2f);
         }
     }
@@ -110,4 +112,17 @@ public class PlayerHealth : MonoBehaviour
             CurrentInvincibleTime = InvincibilityTime;
         }
     }
+   /*
+   IEnumerator ShowWinnerDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        Debug.Log("check winner affter delay");
+        mainUIManager.ShowWinner();
+    }
+    */
+    private void ShowWinnerDelay()
+    {
+        buttonUIManager.ShowWinner();
+    }
+
 }
