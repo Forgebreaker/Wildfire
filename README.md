@@ -2,8 +2,8 @@
 
 - This is just a simple pixel fighting game, learned a little bit from Brawlhalla, created by:
   
-  + Nguyen Duong Yen Nhi - UX/UI desginer
-  + Vu Thanh Luan - UI developer
+  + Nguyen Duong Yen Nhi -  Responsible for the artistic design of game buttons.
+  + Vu Thanh Luan - Developed the user interface functions
   + Tran Hung Thinh - Everything else
 
 [Download Link] https://drive.google.com/file/d/1mmJyNOcZYoZnIHftis01PLBx5i2dkWU8/view?usp=sharing
