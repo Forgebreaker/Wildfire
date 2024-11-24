@@ -1,6 +1,6 @@
 # Wildfire: Pixel Battleground
 
-- This is just a simple local multiplayer PC fighting game, learned a little bit from Brawlhalla, created by Tran Hung Thinh
+This is just a simple local multiplayer PC fighting game, learned a little bit from Brawlhalla
 
 [Gameplay Video] https://www.facebook.com/hungthinhtran.bigbox/videos/3734733400098182?idorvanity=1593929644183691
 
