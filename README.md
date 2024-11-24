@@ -1,10 +1,6 @@
 # Wildfire: Pixel Battleground
 
-- This is just a simple pixel fighting game, learned a little bit from Brawlhalla, created by:
-  
-  + Nguyen Duong Yen Nhi - Designed game buttons.
-  + Vu Thanh Luan - Coded the buttons's function.
-  + Tran Hung Thinh - Everything else.
+- This is just a simple local multiplayer PC fighting game, learned a little bit from Brawlhalla, created by Tran Hung Thinh
 
 [Gameplay Video] https://www.facebook.com/hungthinhtran.bigbox/videos/3734733400098182?idorvanity=1593929644183691
 
