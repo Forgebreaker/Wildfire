@@ -5,7 +5,6 @@
 - The game features a tower-like monster that launches fireballs, which track players for a short duration, adding an extra layer of challenge.
 - Randomly dropping items provide special power-ups, enhancing gameplay strategy.
 - A user-friendly and comprehensive UI ensures seamless interaction.
-- A lively map along with beautifully designed characters, and smooth animations, delivering a visually appealing experience.
 
 [Gameplay Video] https://www.facebook.com/hungthinhtran.bigbox/videos/3734733400098182?idorvanity=1593929644183691
 
